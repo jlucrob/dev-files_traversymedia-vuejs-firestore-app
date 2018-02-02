@@ -1,6 +1,8 @@
 # dev-files_traversymedia-vuejs-firestore-app
 Dev Files for traversymedia-vuejs-firestore-app (https://github.com/jlucrob/traversymedia-vuejs-firestore-app)
 
+Find the live app here: https://jlucrob.github.io/traversymedia-vuejs-firestore-app/
+
 To run the app locally: 
 
 - download the files
